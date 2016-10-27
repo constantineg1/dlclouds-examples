@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "fbbotapp.app", 
+        "s3_bucket": "REPLACE WITH NAME OF YOUR BUCKET"
+    }
+}
