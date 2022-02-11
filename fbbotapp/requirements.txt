@@ -93,7 +93,7 @@ pexpect==3.1
 pickleshare==0.7.2
 piston-mini-client==0.7.5
 prompt-toolkit==1.0.7
-protobuf==2.5.0
+protobuf==3.15.0
 ptyprocess==0.5.1
 pyOpenSSL==0.13
 pycrypto==2.6.1
