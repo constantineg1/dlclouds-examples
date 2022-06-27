@@ -113,7 +113,7 @@ python-gflags==1.5.1
 pytz==2012c
 pyxdg==0.25
 pyzmq==14.0.1
-reportlab==3.0
+reportlab==3.5.55
 requests==2.2.1
 roman==2.0.0
 scikit-image==0.9.3
